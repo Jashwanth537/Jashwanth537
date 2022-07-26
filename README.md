@@ -7,7 +7,7 @@
 </p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About me:
-- 👨‍🎓 I’m undergraduate pursuing B.Tech in Electronics and Communication Engineering with a minor in Product Design at Indian Institute of Technology, Guwahati.
+- 👨‍🎓 I’m an undergraduate pursuing B.Tech in Electronics and Communication Engineering with a minor in Product Design at Indian Institute of Technology, Guwahati.
 - 🌱 I’m currently learning **Flutter - Blockchain**
 - 💬 Talk to me about Startups, Programming, Product, Development, Cricket, Cosmos
 - 👯 We can connect to play some games of Chess ♟
